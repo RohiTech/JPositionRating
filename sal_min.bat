@@ -1,0 +1,1 @@
+call TABLA_SALARIO_MINIMO.pdf
